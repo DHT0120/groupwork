@@ -29,12 +29,12 @@ const pushComment = () => {
         <a-list-item>{{ item }}</a-list-item>
       </template>
       <template #header>
-        <div>评论列表</div>
+        <div>Comment list</div>
       </template>
     </a-list>
     <a-space style="display: flex; justify-content: flex-end; margin-top: 30px">
       <a-input v-model:value="comment" />
-      <a-button type="primary"  @click="pushComment">发表评论</a-button>
+      <a-button type="primary"  @click="pushComment">Leave a comment</a-button>
     </a-space>
   </div>
 </template>

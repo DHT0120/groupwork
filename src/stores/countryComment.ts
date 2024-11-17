@@ -12,7 +12,7 @@ export const useCountryCommentsStore = defineStore('countryGold', {
       comments: ['USA Come on!!!', 'Fighting!!!🇺🇸'],
     },{
       id: 6,
-      comments: ['🇫🇷🇫🇷🇫🇷', '法国加油！'],
+      comments: ['🇫🇷🇫🇷🇫🇷', 'Ravitaillement en France！'],
     }] as CountryComment[],
   }),
   actions: {
