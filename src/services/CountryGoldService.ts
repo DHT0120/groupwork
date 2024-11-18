@@ -71,7 +71,7 @@ const countryGoldsData = [
       "gold": 27,
       "silver": 14,
       "bronze": 17,
-      "desc": "东洋之光",
+      "desc": "East Asian island countries",
       "color": "#00a2ae"
     },
     {
@@ -107,7 +107,7 @@ const countryGoldsData = [
       "gold": 10,
       "silver": 12,
       "bronze": 14,
-      "desc": "欧洲低地之国",
+      "desc": "European lowlands",
       "color": "#00a2ae"
     },
     {
@@ -116,7 +116,7 @@ const countryGoldsData = [
       "gold": 8,
       "silver": 11,
       "bronze": 13,
-      "desc": "斗牛士之国",
+      "desc": "The country of bullfighters",
       "color": "#f5222d"
     },
     {
@@ -125,7 +125,7 @@ const countryGoldsData = [
       "gold": 7,
       "silver": 14,
       "bronze": 11,
-      "desc": "北美枫叶之国",
+      "desc": "North American maple leaf country",
       "color": "#fa541c"
     },
     {
@@ -134,7 +134,7 @@ const countryGoldsData = [
       "gold": 6,
       "silver": 8,
       "bronze": 9,
-      "desc": "北欧福利国家",
+      "desc": "Nordic welfare state",
       "color": "#fa8c16"
     },
     {
@@ -143,7 +143,7 @@ const countryGoldsData = [
       "gold": 5,
       "silver": 7,
       "bronze": 10,
-      "desc": "东欧重要国家",
+      "desc": "Important countries of Eastern Europe",
       "color": "#a0d911"
     },
     {
@@ -152,7 +152,7 @@ const countryGoldsData = [
       "gold": 7,
       "silver": 6,
       "bronze": 8,
-      "desc": "南美足球王国",
+      "desc": "Football kingdoms in South America",
       "color": "#eb2f96"
     },
     {
@@ -161,7 +161,7 @@ const countryGoldsData = [
       "gold": 7,
       "silver": 6,
       "bronze": 7,
-      "desc": "南太平洋岛国",
+      "desc": "South Pacific island countries",
       "color": "#722ed1"
     },
     {
@@ -170,7 +170,7 @@ const countryGoldsData = [
       "gold": 6,
       "silver": 7,
       "bronze": 5,
-      "desc": "北欧童话王国",
+      "desc": "Fairy kingdom of Norse",
       "color": "#13c2c2"
     },
     {
@@ -179,7 +179,7 @@ const countryGoldsData = [
       "gold": 4,
       "silver": 8,
       "bronze": 6,
-      "desc": "欧洲中立国",
+      "desc": "European neutral country",
       "color": "#1890ff"
     },
     {
@@ -188,7 +188,7 @@ const countryGoldsData = [
       "gold": 3,
       "silver": 5,
       "bronze": 7,
-      "desc": "欧洲巧克力之国",
+      "desc": "The chocolate country of Europe",
       "color": "#faad14"
     }
   ]
@@ -745,37 +745,37 @@ const projectsData = [
     "countryId": 11,
     "projects": [
       {
-        "projectName": "自行车",
+        "projectName": "bicycle",
         "gold": 4,
         "silver": 3,
         "bronze": 2
       },
       {
-        "projectName": "游泳",
+        "projectName": "Swimming",
         "gold": 2,
         "silver": 2,
         "bronze": 3
       },
       {
-        "projectName": "帆船",
+        "projectName": "sailboat",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "曲棍球",
+        "projectName": "Hockey ball",
         "gold": 1,
         "silver": 1,
         "bronze": 1
       },
       {
-        "projectName": "赛艇",
+        "projectName": "rowing",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "速滑",
+        "projectName": "Speed skating",
         "gold": 1,
         "silver": 2,
         "bronze": 4
@@ -787,37 +787,37 @@ const projectsData = [
     "countryId": 12,
     "projects": [
       {
-        "projectName": "网球",
+        "projectName": "tennis",
         "gold": 2,
         "silver": 3,
         "bronze": 2
       },
       {
-        "projectName": "篮球",
+        "projectName": "basketball",
         "gold": 2,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "手球",
+        "projectName": "handball",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "帆船",
+        "projectName": "sailboat",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "自行车",
+        "projectName": "bicycle",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "足球",
+        "projectName": "soccer",
         "gold": 1,
         "silver": 2,
         "bronze": 3
@@ -829,31 +829,31 @@ const projectsData = [
     "countryId": 13,
     "projects": [
       {
-        "projectName": "冰球",
+        "projectName": "Ice hockey",
         "gold": 2,
         "silver": 3,
         "bronze": 1
       },
       {
-        "projectName": "游泳",
+        "projectName": "Swimming",
         "gold": 2,
         "silver": 3,
         "bronze": 2
       },
       {
-        "projectName": "划艇",
+        "projectName": "rowing",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "田径",
+        "projectName": "Track and field",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "自由式滑雪",
+        "projectName": "Freestyle skiing",
         "gold": 1,
         "silver": 4,
         "bronze": 4
@@ -865,31 +865,31 @@ const projectsData = [
     "countryId": 14,
     "projects": [
       {
-        "projectName": "越野滑雪",
+        "projectName": "Cross-country skiing",
         "gold": 2,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "冰球",
+        "projectName": "Ice hockey",
         "gold": 1,
         "silver": 2,
         "bronze": 1
       },
       {
-        "projectName": "摔跤",
+        "projectName": "wrestling",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "游泳",
+        "projectName": "Swimming",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "帆船",
+        "projectName": "sailboat",
         "gold": 1,
         "silver": 2,
         "bronze": 2
@@ -901,25 +901,25 @@ const projectsData = [
     "countryId": 15,
     "projects": [
       {
-        "projectName": "田径",
+        "projectName": "Track and field",
         "gold": 2,
         "silver": 2,
         "bronze": 3
       },
       {
-        "projectName": "举重",
+        "projectName": "weightlifting",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "排球",
+        "projectName": "volleyball",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "击剑",
+        "projectName": "fencing",
         "gold": 1,
         "silver": 2,
         "bronze": 3
@@ -931,31 +931,31 @@ const projectsData = [
     "countryId": 16,
     "projects": [
       {
-        "projectName": "足球",
+        "projectName": "soccer",
         "gold": 2,
         "silver": 2,
         "bronze": 1
       },
       {
-        "projectName": "排球",
+        "projectName": "volleyball",
         "gold": 2,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "帆船",
+        "projectName": "sailboat",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "柔道",
+        "projectName": "judo",
         "gold": 1,
         "silver": 1,
         "bronze": 2
       },
       {
-        "projectName": "田径",
+        "projectName": "Track and field",
         "gold": 1,
         "silver": 1,
         "bronze": 1
@@ -967,25 +967,25 @@ const projectsData = [
     "countryId": 17,
     "projects": [
       {
-        "projectName": "赛艇",
+        "projectName": "rowing",
         "gold": 3,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "帆船",
+        "projectName": "sailboat",
         "gold": 2,
         "silver": 1,
         "bronze": 1
       },
       {
-        "projectName": "田径",
+        "projectName": "Track and field",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "橄榄球",
+        "projectName": "rugby",
         "gold": 1,
         "silver": 1,
         "bronze": 2
@@ -997,25 +997,25 @@ const projectsData = [
     "countryId": 18,
     "projects": [
       {
-        "projectName": "手球",
+        "projectName": "handball",
         "gold": 2,
         "silver": 2,
         "bronze": 1
       },
       {
-        "projectName": "自行车",
+        "projectName": "bicycle",
         "gold": 2,
         "silver": 2,
         "bronze": 1
       },
       {
-        "projectName": "帆船",
+        "projectName": "sailboat",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "羽毛球",
+        "projectName": "badminton",
         "gold": 1,
         "silver": 1,
         "bronze": 1
@@ -1027,19 +1027,19 @@ const projectsData = [
     "countryId": 19,
     "projects": [
       {
-        "projectName": "网球",
+        "projectName": "tennis",
         "gold": 2,
         "silver": 2,
         "bronze": 1
       },
       {
-        "projectName": "自行车",
+        "projectName": "bicycle",
         "gold": 1,
         "silver": 3,
         "bronze": 2
       },
       {
-        "projectName": "划船",
+        "projectName": "sailboat",
         "gold": 1,
         "silver": 3,
         "bronze": 3
@@ -1051,19 +1051,19 @@ const projectsData = [
     "countryId": 20,
     "projects": [
       {
-        "projectName": "自行车",
+        "projectName": "bicycle",
         "gold": 2,
         "silver": 2,
         "bronze": 3
       },
       {
-        "projectName": "曲棍球",
+        "projectName": "Hockey ball",
         "gold": 1,
         "silver": 2,
         "bronze": 2
       },
       {
-        "projectName": "田径",
+        "projectName": "Track and field",
         "gold": 0,
         "silver": 1,
         "bronze": 2
